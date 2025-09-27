@@ -1,0 +1,10 @@
+streamlit>=1.35.0
+pillow>=10.3.0
+torch>=2.3.0
+transformers>=4.42.0
+sentence-transformers>=3.0.1
+pinecone-client>=5.0.1
+python-dotenv>=1.0.1
+tqdm>=4.66.4
+numpy>=1.26.4
+llama-index-embeddings-huggingface>=0.3.0
